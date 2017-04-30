@@ -6,9 +6,12 @@
 > npm install
 > ng serve
 ```
+
 ## GitHub Search facility 
 
 Angular project with GitHub search API. An example angular project using key Angular api's
+
+## Project view
 
 ![](./public/images/githubsearch.png)
 
