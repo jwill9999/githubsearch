@@ -1,5 +1,29 @@
 # Githubsearch
 
+```
+> git clone https://github.com/jwill9999/githubsearch.git
+> cd githubsearch
+> npm install
+> ng serve
+```
+## GitHub Search facility 
+
+Angular project with GitHub search API. An example angular project using key Angular api's
+
+![](./public/images/githubsearch.png)
+
+## Key Features
+
+> Angular
+
+> Http
+
+> Github Api
+
+> observables
+
+<hr>
+
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.22-1.
 
 ## Development server
